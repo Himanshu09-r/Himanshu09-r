@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Himanshu</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Hi%20👋%2C%20I'm%20Himanshu%20Ranglani&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+</p>
+
 <h3 align="center">IT (IoT) Student | DSA Learner | Machine Learning Enthusiast | Building AIoT Projects</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=IoT+%2B+AI+Enthusiast;DSA+Learner;Machine+Learning+Explorer;Building+Real+World+Projects;Future+AIoT+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=8A2BE2&center=true&vCenter=true&width=700&lines=IoT+%2B+AI+Enthusiast;Machine+Learning+Explorer;Building+Real+World+Projects;Future+AIoT+Engineer" />
 </p>
 
 ---
@@ -20,7 +23,12 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,arduino,raspberrypi,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,arduino,raspberrypi,git,github,vscode" height="45"/>
+
+  <img src="https://cdn.simpleicons.org/nodered/8F0000" height="45"/>
+  <img src="https://cdn.simpleicons.org/stmicroelectronics/03234B" height="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/blynk.svg" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Thonny_logo.png" height="45"/>
 </p>
 
 ---
