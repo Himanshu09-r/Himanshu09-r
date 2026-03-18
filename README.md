@@ -23,12 +23,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,arduino,raspberrypi,git,github,vscode" height="45"/>
-
-  <img src="https://cdn.simpleicons.org/nodered/8F0000" height="45"/>
-  <img src="https://cdn.simpleicons.org/stmicroelectronics/03234B" height="45"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/blynk.svg" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Thonny_logo.png" height="45"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,arduino,raspberrypi,git,github,vscode,mysql" height="45"/>
 </p>
 
 ---
@@ -63,8 +58,12 @@
 ## 🌐 Connect With Me
 
 <p align="left">
+  <a href="mailto:himanshuranglani29@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/himanshu-ranglani-33984b314/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 </p>
 
